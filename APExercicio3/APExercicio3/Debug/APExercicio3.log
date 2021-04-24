@@ -1,0 +1,5 @@
+﻿  APExercicio3.c
+C:\Users\Usuario\Documents\_Análise e Desenvolvimento de Sistemas\ADS\Módulo C\Fase l\Linguagem de Programação\Atividade Prática\APExercicio3\APExercicio3\APExercicio3.c(26,32): warning C4267: '=': conversão de 'size_t' para 'char', possível perda de dados
+C:\Users\Usuario\Documents\_Análise e Desenvolvimento de Sistemas\ADS\Módulo C\Fase l\Linguagem de Programação\Atividade Prática\APExercicio3\APExercicio3\APExercicio3.c(27,37): warning C4477: 'fprintf': a cadeia de formato '%s' requer um argumento do tipo 'char *', mas um argumento variadic 1 tem o tipo 'int'
+C:\Users\Usuario\Documents\_Análise e Desenvolvimento de Sistemas\ADS\Módulo C\Fase l\Linguagem de Programação\Atividade Prática\APExercicio3\APExercicio3\APExercicio3.c(31,31): warning C4013: 'toupper' indefinido; assumindo extern retornando int
+  APExercicio3.vcxproj -> C:\Users\Usuario\Documents\_Análise e Desenvolvimento de Sistemas\ADS\Módulo C\Fase l\Linguagem de Programação\Atividade Prática\APExercicio3\Debug\APExercicio3.exe
